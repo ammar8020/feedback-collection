@@ -6,14 +6,4 @@ This is a MERN stack web app that include the full gamut of features, including 
 
 ## App Info
 
-### Author
-
-Ammar Ahmed
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
+This repo is part of a Udemy.com course. See here: https://www.udemy.com/node-with-react-fullstack-web-development
